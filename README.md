@@ -40,9 +40,9 @@ Focused on \*\*Network Security\*\*, \*\*Digital Forensics\*\*, and building lig
 
 
 
-\* \*\*\[tcp-banner-scanner](https://github.com/XselDom/tcp-banner-scanner)\*\* — Multi-threaded network reconnaissance tool. Probes TCP ports, isolates DPI/firewall artifacts, and extracts service software versions.
+* **[tcp-banner-scanner](https://github.com/XselDom/tcp-banner-scanner)** — Multi-threaded network reconnaissance tool. Probes TCP ports, isolates DPI/firewall artifacts, and extracts service software versions.
 
-\* \*\*\[forensic-artifact-analyzer](https://github.com/XselDom/forensic-artifact-analyzer)\*\* — Evidence integrity verifier (MD5/SHA-256) and artifact extractor for digital forensics, parsing GPS coordinates and hardware EXIF data.
+* **[forensic-artifact-analyzer](https://github.com/XselDom/forensic-artifact-analyzer)** — Evidence integrity verifier (MD5/SHA-256) and artifact extractor for digital forensics, parsing GPS coordinates and hardware EXIF data.
 
 
 
