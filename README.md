@@ -50,13 +50,12 @@ Focused on \*\*Network Security\*\*, \*\*Digital Forensics\*\*, and building lig
 
 
 
-\### 📊 GitHub Activity
-
+### 🛡️ Featured Projects
 <p align="center">
-
-&#x20; <img src="https://github-readme-stats.vercel.app/api?username=XselDom\&show\_icons=true\&theme=tokyonight\&hide\_border=true" alt="XselDom's GitHub Stats" />
-
-&#x20; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XselDom\&layout=compact\&theme=tokyonight\&hide\_border=true" alt="Top Languages" />
-
+  <a href="https://github.com/XselDom/tcp-banner-scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XselDom&repo=tcp-banner-scanner&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/XselDom/forensic-artifact-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XselDom&repo=forensic-artifact-analyzer&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-
